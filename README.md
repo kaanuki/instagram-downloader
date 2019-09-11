@@ -10,7 +10,7 @@ A website built with Node.js which allows user to download images by entering UR
 ## 2)Make sure you have Node.js downloaded
 https://nodejs.org/en/download/
 
-## 3)Run
+## 3)Run on terminal /cmd
 `npm install express` </br>
 `npm install instagram-save`
 
