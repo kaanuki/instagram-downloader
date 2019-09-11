@@ -22,7 +22,9 @@ GO TO index.js and change file destination . </br>
 `node index.js`
 
 ## 5)Open index.html in Chrome
-
+</br>
+</br>
+</br>
 
 ## 6)Read more on
 https://medium.com/@automationfeed/lets-download-instagram-s-images-with-javascript-and-node-js-ee932423c402
