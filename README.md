@@ -11,7 +11,7 @@ A website built with Node.js which allows user to download images by entering UR
 https://nodejs.org/en/download/
 
 ## 3)Run
-`npm install express`
+`npm install express` \n
 `npm install instagram-save`
 
 ## IMPORTANT
