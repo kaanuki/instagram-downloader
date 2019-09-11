@@ -11,11 +11,11 @@ A website built with Node.js which allows user to download images by entering UR
 https://nodejs.org/en/download/
 
 ## 3)Run
-`npm install express` \n
+`npm install express` </br>
 `npm install instagram-save`
 
 ## IMPORTANT
-GO TO index.js and change file destination
+GO TO index.js and change file destination . </br>
 `var myDir='to_your_own_path'; `
 
 ## 4)Run
