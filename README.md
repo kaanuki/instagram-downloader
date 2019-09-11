@@ -11,15 +11,15 @@ A website built with Node.js which allows user to download images by entering UR
 https://nodejs.org/en/download/
 
 ## 3)Run on terminal /cmd
-`npm install express` </br>
+`npm install express` </br> </br>
 `npm install instagram-save`
 
 ## IMPORTANT
-GO TO index.js and change file destination . </br>
+GO TO index.js and change file destination . </br></br>
 `var myDir='to_your_own_path'; `
 
 ## 4)Run
-`node index.js` </br>
+`node index.js` </br></br>
  Open index.html in Chrome 
 
 
