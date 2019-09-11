@@ -15,7 +15,7 @@ https://nodejs.org/en/download/
 `npm install instagram-save`
 
 ## IMPORTANT
-GO TO index.js and change file destination . </br></br>
+**EDIT** index.js and change file destination . </br></br>
 `var myDir='to_your_own_path'; `
 
 ## 4)Run
