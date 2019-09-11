@@ -7,7 +7,10 @@ A website built with Node.js which allows user to download images by entering UR
 ## 1)Go to terminal/cmd
 `git clone https://github.com/kaikiat/instagram-downloader.git`
 
-## 2)Run
+## 2)Make sure you have Node.js downloaded
+https://nodejs.org/en/download/
+
+## 3)Run
 `npm install express`
 `npm install instagram-save`
 
@@ -15,10 +18,10 @@ A website built with Node.js which allows user to download images by entering UR
 GO TO index.js and change file destination
 `var myDir='to_your_own_path'; `
 
-## 3)Run
+## 4)Run
 `node index.js`
 
-## 4)Open index.html in Chrome
+## 5)Open index.html in Chrome
 
 
 ## Read more on
